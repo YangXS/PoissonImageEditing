@@ -1,0 +1,1 @@
+PoissonImageEditing -illum orange.bmp orange_mask.bmp 0.05 0.5 1.9 200 o_orange.jpg

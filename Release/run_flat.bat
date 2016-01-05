@@ -1,0 +1,1 @@
+PoissonImageEditing -flat child.bmp child_mask.bmp 40 50 1.9 200 o_child.jpg

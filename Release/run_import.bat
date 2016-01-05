@@ -1,0 +1,1 @@
+PoissonImageEditing -import snake.jpg snake_mask.jpg pyramid.jpg 110 60 1.9 200 o_snake.jpg

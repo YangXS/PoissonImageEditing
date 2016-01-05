@@ -1,0 +1,1 @@
+PoissonImageEditing -mix s_char.bmp char_mask.bmp t_char.bmp 20 20 1.9 200 o_char.jpg
