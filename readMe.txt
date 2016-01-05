@@ -1,10 +1,9 @@
-ÓÃ¸ßË¹ÈüµÂ¶ûµü´ú·¨ÊµÏÖÂÛÎÄÖĞµÄËã·¨£º
+ç”¨é«˜æ–¯èµ›å¾·å°”è¿­ä»£æ³•å®ç°è®ºæ–‡ä¸­çš„ç®—æ³•ï¼š
 Poisson image editing
-Patrick P¨¦rez, M. Gangnet, A. Blake
+Patrick PÃ©rez, M. Gangnet, A. Blake
 ACM Transactions on Graphics (SIGGRAPH'03), 22(3):313-318, 2003
 
-±à³Ì»·¾³£ºVS2008 + OpenCV2.1
+ç¼–ç¨‹ç¯å¢ƒï¼šVS2008 + OpenCV2.1
 
-½¨Òé£º
-1¡¢ÔÚreleaseÏÂ±àÒë£¬ÔËĞĞËÙ¶È¿ì£»
-2¡¢mask×îºÃ²»ÒªÑ¡ÔÚÔ­Í¼ÏñµÄ±ß½çÉÏ£»
+æ³¨æ„ï¼š
+maskæœ€å¥½ä¸è¦é€‰åœ¨åŸå›¾åƒçš„è¾¹ç•Œä¸Šï¼›
